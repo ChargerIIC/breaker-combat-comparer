@@ -1,0 +1,7 @@
+{
+  "name": "breaker-combat-comparer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
